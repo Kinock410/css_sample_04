@@ -1,0 +1,35 @@
+body {
+    background-image : url("images/ソナギ.jpg");
+}
+
+#container {
+    width: 500px;
+    margin: auto;
+    background-image : url("images/IOI.gif");
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+    color: #bbbcde;
+}
+
+nav {
+    padding: 30px 40px;
+    background-color: #7ebeab;
+    font-size: 20px;
+    color: white;
+}
+
+#contents{
+    padding: 40px;
+    height : 300px;
+    color: white;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background:white;
+    color: #7ebeab;
+}
